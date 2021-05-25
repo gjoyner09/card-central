@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Overview
+Summy site to buy and sell trading cards
 
-Things you may want to cover:
+### Purpose
+Practice both front- and back-end with Rails. The front end uses bootstrap and the backend uses PostgreSQL. Note the site is not complete and was to practice a variety of concepts.
 
-* Ruby version
+### Tech stack
+Ruby, Rails, PostgreSQL, Bootstrap
 
-* System dependencies
+### Versions
+Ruby: 2.7.1p83
+Rails: 6.1.1
 
-* Configuration
+### Use
+Install rails. Run `bundle install` then `rails db:migrate` and then `rails s` to start a rails local server and view on your browser
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Author
+Grey Joyner
